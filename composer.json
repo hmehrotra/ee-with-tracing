@@ -1,0 +1,10 @@
+{
+    "require": {
+        "google/cloud-spanner": "^1.70",
+        "google/cloud-bigtable": "^1.30",
+        "google/cloud-firestore": "^1.42",
+        "google/gax": "^1.32",
+        "opencensus/opencensus": "^0.7.0",
+        "opencensus/opencensus-exporter-stackdriver": "^0.1.0"
+    }
+}
